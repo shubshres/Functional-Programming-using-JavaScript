@@ -5,7 +5,7 @@ STUDENT ID: 1001724804
 DUE DATE: October 20th, 2021
 CSE 3302-001 Programming Languages
 Professor: Kelly French
-Compiled using MacOS with Node.js v14.18.1
+Compiled using Node.js v14.18.1 on MacOS
 
 */
 
